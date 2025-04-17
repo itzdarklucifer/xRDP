@@ -10,11 +10,11 @@
   git clone https://github.com/itzdarklucifer/xRDP && cd xRDP && chmod +x xRDP.sh && ./xRDP.sh
 ```
 * After running the command, you'll see like below.
-![screenshot1](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot1.jpg)
+![screenshot1](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot1.png)
 * Then follow the steps given in the screenshots below.
-![screenshot2](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot2.jpg)
+![screenshot2](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot2.png)
 
-![screenshot3](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot3.jpg)
+![screenshot3](https://raw.githubusercontent.com/itzdarklucifer/xRDP/refs/heads/main/screenshot3.png)
 
 * And that's it :)
 ## Internet speed test
